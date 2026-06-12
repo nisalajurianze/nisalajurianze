@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-# Hi 👋 I'm Nisala Jurianze
+<h1 align="center"># Hi 👋 I'm Nisala Jurianze
 
 ## 🚀 About Me
 I'm a BICT undergraduate at South Eastern University of Sri Lanka.
