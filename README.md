@@ -1,9 +1,9 @@
 # Hi 👋 I'm Nisala Jurianze
 
 ## 🚀 About Me
+I'm a BICT undergraduate at South Eastern University of Sri Lanka.
 
-BICT undergraduate at South Eastern University of Sri Lanka.
-
+- 🎓 ICT Undergraduate
 - 💻 Full Stack Development
 - 🤖 AI
 - 🌐 Web Development
@@ -37,3 +37,5 @@ E-commerce Full Functiinal Web System for sale electronic items online
 Mobile - 0776695309
 
 Email: nisalajurianze@gmail.com
+
+⭐ Always learning and building innovative solutions.
