@@ -1,3 +1,4 @@
+![Banner](Banner.png)
 # Hi 👋 I'm Nisala Jurianze
 
 ## 🚀 About Me
