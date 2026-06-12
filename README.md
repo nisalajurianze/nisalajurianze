@@ -43,3 +43,9 @@ Mobile - 0776695309
 Email: nisalajurianze@gmail.com
 
 ⭐ Always learning and building innovative solutions.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisalajurianze&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisalajurianze&layout=compact&theme=tokyonight)
