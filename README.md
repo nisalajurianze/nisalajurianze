@@ -13,7 +13,7 @@
 - 🌐 Web Development
 - 📱 Software Engineering
 
-🔗🔵 [linkedin](https://linkedin.com/in/nisala-jurianze);
+🔗🔵 [linkedin](www.linkedin.com/in/nisala-jurianze);
 
 ## 🛠 Tech Stack
 
