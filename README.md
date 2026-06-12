@@ -13,6 +13,8 @@
 - 🌐 Web Development
 - 📱 Software Engineering
 
+🔗 linkedin.com/in/nisala-jurianze
+
 ## 🛠 Tech Stack
 
 ### Languages
