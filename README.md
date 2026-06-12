@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋 I'm Nisala Jurianze
 
-<h3 align="center">🚀 About Me
-I'm a BICT undergraduate at South Eastern University of Sri Lanka.
+<h2 align="center">🚀 About Me</h2>
+  
+<h3 align="center">I'm a BICT undergraduate at South Eastern University of Sri Lanka.</h3>
 
 - 🎓 ICT Undergraduate
 - 💻 Full Stack Development
