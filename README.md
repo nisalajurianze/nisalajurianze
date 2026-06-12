@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Nisala Jurianze
 
-<!--
-**nisalajurianze/nisalajurianze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+BICT undergraduate at South Eastern University of Sri Lanka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full Stack Development
+- 🤖 AI
+- 🌐 Web Development
+- 📱 Software Engineering
+
+## 🛠 Tech Stack
+
+### Languages
+Java, Python, JavaScript, PHP, 
+
+### Frontend
+React, Next.js, HTML, CSS, Tailwind CSS
+
+### Backend
+Node.js, Express.js, Laravel
+
+### Database
+MySQL, MongoDB
+
+## 📌 Featured Projects
+
+### SMART Lost & Found System
+AI-powered lost and found platform.
+
+### Project Platform
+Professional profile website builder.
+
+### NJ Store
+E-commerce Full Functiinal Web System for sale electronic items online
+## 📫 Contact
+Mobile - 0776695309
+
+Email: nisalajurianze@gmail.com
