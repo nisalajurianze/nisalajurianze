@@ -6,6 +6,7 @@
   
 <h3 align="center">I'm a BICT undergraduate at South Eastern University of Sri Lanka.</h3>
 
+
 - 🎓 ICT Undergraduate
 - 💻 Full Stack Development
 - 🤖 AI
