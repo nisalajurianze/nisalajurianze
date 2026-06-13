@@ -31,6 +31,9 @@ MySQL, MongoDB
 
 ## 📌 Featured Projects
 
+NJ Global Skill Pack for Web Developers
+A deeply engineered open-source collection of 36 specialized AI prompt skills and orchestrators. It transforms AI assistants (Gemini, Codex, Cursor) into elite Principal Engineers that enforce premium UI/UX, robust security, and autonomous bug fixing.
+
 ### SMART Lost & Found System
 AI-powered lost and found platform.
 
